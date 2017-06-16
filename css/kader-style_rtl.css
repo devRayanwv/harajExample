@@ -1,0 +1,748 @@
+/***************************************************************** Defrint **************************************************************/
+
+body {
+    text-align: right;
+    direction: rtl;
+}
+.kader-header-stuff {
+    text-align: end;
+}
+
+.login-header-text {
+    float: right;
+	padding-right: 15px;
+}
+.column {
+    float: right;
+}
+.for-sale-heading {
+    float: right;
+}
+.categories-filter-list {
+    padding-right: 8px;
+}
+.categories-menu-list {
+    padding-right: 8px;
+}
+@media (min-width: 1200px){
+.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+    float: right;
+}
+}
+a.dropdown-near-you.col-lg-4 {
+    float: none;
+}
+a.edit-listing-btn.col-lg-6 {
+    float: left !important;
+}
+.profile-listing-btn-cnt > a.promote-btn {
+    float: left;
+}
+
+.Category-input-box-row textarea {
+    text-align: right !important;
+	color: #6a7a8a !important;
+}
+
+
+
+/********** Login & Signup ***********/
+.login-sub-header-text {
+    padding-right: 15px;
+    float: right;
+}
+.close {
+    float: left;
+}
+.login-close {
+    padding-left: 15px !important;
+}
+.login-box input {
+    padding-right: 15px;
+}
+.remember-pwd {
+    float: right;
+}
+.remember-me-checkbox {
+    float: right;
+    padding-left: 10px;
+    margin: 2px 0 !important;
+}
+.remember-div {
+    float: right;
+}
+.forgot-pwd {
+    padding-right: 10px;
+    float: right;
+}
+.login-div-line {
+    direction: ltr;
+}
+.signup-header-text {
+    padding-right: 15px;
+    float: right;
+}
+.signup-close {
+    padding-left: 15px !important;
+}
+.signup-box input {
+    padding-right: 15px;
+}
+.signup-div-line {
+    direction: ltr;
+}
+.forgot-header-text {
+    padding-right: 15px;
+    float: right;
+}
+.forgot-sub-header-text {
+    padding-right: 15px;
+    float: right;
+}
+
+/********** sticky-header-dropdown ***********/
+.sticky-header-dropdown {
+    text-align: right;
+}
+/********** app download ***********/
+.kader-app-section .kader-app-logo {
+    float: left;
+}
+.kader-app-section .no-hor-padding {
+    float: right;
+}
+/********** map ***********/
+.map-input-section.no-hor-padding {
+    float: right;
+}
+.location-button {
+    float: left;
+}
+.map-select-box select {
+    padding-right: 5px;
+	padding-left: 0px;
+	margin-left: 0px;
+}
+.map-input-box input {
+    padding-right: 15px;
+	padding-left: 0px;
+	border-radius: 5px 0 0 5px;
+}
+
+.item-name a {
+    padding-left: 0px;
+    padding-right: 10px;
+}
+.day-count {
+    left: 10px;
+    text-align: left;
+}
+.location-submit-button {
+    margin-right: 5px;
+}
+.location-button {
+    margin-top: 12px;
+}
+@media (max-width: 1023px) and (min-width: 768px){
+.location-button {
+    padding-right: 18px;
+    padding-top: 6px;
+    padding-left: 5px;
+}
+}
+.map-select-box select {
+    direction: ltr;
+}
+
+
+/********** footer ***********/
+.footer a {
+    color: #515e6a;
+    float: right;
+}
+.kader-footer-vertical-line {
+    float: right;
+}
+.kader-app-icon img {
+    padding-right: 12px;
+    padding-left: 12px;
+}
+.kader-ios-app img {
+    padding-right: 12px;
+}
+.kader-new-account-info {
+    float: right;
+}
+.kader-new-account a {
+    float: left;
+	padding-right: 20px;
+}
+@media (max-width: 767px) and (min-width: 320px){
+.kader-new-account a {
+    float: right;
+}
+.product-padding {
+    margin-top: 5px;
+}
+}
+span.kader-app-head {
+    padding-right: 12px;
+}
+.kader-footer-bottom.col-xs-12.col-sm-12.col-md-8.col-lg-10.no-hor-padding {
+    float: right;
+}
+.language {
+    float: left;
+}
+.language-select-box-heading {
+    float: right;
+}
+.language .form-control {
+    float: left;
+	padding-right: 8px;
+	    margin-left: 5px;
+}
+.language-select-box-heading {
+    padding-right: 25px;
+    padding-left: 25px;
+}
+.select-box-down-arrow {
+    background-position: left 14px;
+}
+@media (max-width: 480px) and (min-width: 320px){
+.select-box-down-arrow {
+    background-position: left 14px;
+}}
+.miles {
+    width: 70%;
+}
+@media (max-width: 1023px) and (min-width: 320px){
+.kader-for-sale:hover {
+    float: left;
+}}
+.kader-new-account a {
+    text-align: center;
+}
+
+/********** product ***********/
+.product-right-container {
+    float: left;
+}
+.product-left-container {
+    float: right;
+}
+.item-location {
+    padding-right: 10px;
+    padding-left: 0px;
+}
+.seller-details.col-xs-12 .col-md-4 {
+    float: right;
+}
+.seller-name {
+    text-align: left;
+}
+.days-reviews-counter {
+    float: right;
+}
+.chat-with-seller-text {
+    direction: ltr;
+}
+.tab-section-content > .tab-pane {
+    float: right;
+}
+ul.tab-section-tabs > li.active > a {
+    font-size: 1.6rem;
+    font-family: Droid Arabic Naskh;
+}
+.nav-tabs>li>a {
+    margin-right: 0px;
+}
+.seller-prof-pic {
+    float: right;
+}
+.recently-viewed-heading {
+    font-family: Droid Arabic Naskh;
+    padding-top: 20px;
+}
+
+/********** navbar ***********/
+@media (min-width: 768px){
+.navbar-nav {
+    float: right;
+    margin: 0;
+}}
+
+.product-details.col-xs-12.col-sm-12.col-md-10.col-lg-10.no-hor-padding {
+    float: right;
+}
+@media (min-width: 992px){
+.kader-user-nav.col-sm-3.col-md-5.col-lg-3.no-hor-padding {
+    width: 29%;
+    float: left;
+	min-width: 311px;
+}
+}
+@media (max-width: 1023px) and (min-width: 320px){
+.kader-app-store {
+    float: right;
+    padding-left: 15px;
+    padding-right: 0px;
+}
+.kader-play-store {
+    float: right;
+}
+#menu-toggle {
+    margin-top: 12px;
+}
+}
+@media (max-width: 1023px) and (min-width: 992px){
+.kader-logo {
+    right: 356px;
+}
+}
+.kader-login-user-nav > ul.navbar-nav {
+    float: left;
+	position: relative;
+    z-index: 1000;
+}
+.kader-header-message {
+    position: relative;
+    z-index: 1000;
+}
+.navbar-nav>li>.dropdown-menu {
+    text-align: right;
+}
+@media (max-width: 767px) and (min-width: 641px){
+.kader-login-user-nav > ul.navbar-nav {
+    width: 197px;
+}
+.navbar-nav .open .dropdown-menu {
+    background-color: #fff;
+}
+}
+.navbar-nav > li > a {
+    padding-top: 9px;
+}
+
+ul.profile-vertical-tab-container {
+    border: none;
+    float: right;
+}
+.profile-vertical-tab-section > .tab-content {
+    padding-right: 10px;
+    padding-left: 0px;
+}
+span.ad-label.pull-right {
+    float: left!important;
+}
+.change-pwd-btn.pull-right {
+    float: left!important;
+}
+.kader-logo img {
+    height: 70px;
+    width: 200px;
+}
+.kader-header {
+    height: 85px;
+}
+.kader-header {
+    background-color: #fafafa !important;
+    border-bottom: 1px solid #ebebeb;
+}
+.navbar-nav > li > a {
+    color: #2a3f50!important;
+}
+.navbar-nav>li.kader-header-stuff a {
+    color: #fff !important;
+}
+.kader-search-bar.col-md-9.col-lg-9,.kader-search-bar input {
+	background-color: #ffffff !important;
+    border-radius: 3px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16),0 0 0 1px rgba(0,0,0,0.08);
+    transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
+}
+.kader-search-bar.col-md-9.col-lg-9:focus, .kader-search-bar.col-md-9.col-lg-9:visited, .kader-search-bar.col-md-9.col-lg-9:hover {
+    box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2),0 0 0 1px rgba(0,0,0,0.08);
+    border: none;
+}
+@media (min-width: 992px){
+.kader-header-bar>div:first-child {
+    margin-top: 11px;
+}
+}
+@media (max-width: 448px){
+.kader-logo img {
+    height: 60px;
+    width: 180px;
+}
+}
+@media (max-width: 405px){
+.kader-logo img {
+    margin-right: 68%;
+}
+}
+.kader-user-nav {
+    margin-top: 11px;
+}
+/*#menu-toggle img {
+    margin-top: 11px;
+}*/
+.kader-header-bar {
+    margin-top: 8px !important;
+}
+.kader-login-user-nav {
+    margin-top: 11px;
+}
+.kader-header-har-line {
+    background-color: #d5d7d8;
+}
+@media (max-width: 992px) and (min-width: 320px){
+.kader-header-bar {
+    margin-top: 8px !important;
+}
+}
+@media (max-width: 1023px) and (min-width: 320px){
+.app-responsive-adjust {
+    height: 85px;
+}
+}
+.kader-menu li a {
+    margin-right: 5px;
+}
+.dropdown:hover #dropdown-block.dropdown-menu {
+    overflow-x: auto;
+	width: 185px;
+    height: 60vh;
+    direction: ltr; 
+	right: 0;
+}
+@media (min-width: 768px){
+.navbar-nav>li.dropdown {
+    float: right;
+}
+}
+
+/********** messages ***********/
+.message-conversation-right-cnt > .message-conversation > .conversation-container {
+    float: right;
+}
+.conversation-bargain-container {
+    padding-right: 15px;
+}
+.message-icon {
+    float: right;
+}
+.form-group.col-md-10 {
+    float: right;
+}
+.message-type-container .chat-message-type .form-group {
+    padding-left: 10px;
+    padding-right: 0px;
+}
+.message-vertical-tab-container > li.active > a, .message-vertical-tab-container > li.active > a:hover, .message-vertical-tab-container > li.active > a:focus {
+    border-right: 5px solid #2bc248;
+    border-left: 0px;
+}
+
+/********** comments ***********/
+.nav-tabs>li {
+    float: right;
+}
+.nav-tabs>li.pull-right {
+    float: left !important;
+}
+.character-left {
+    float: right;
+    padding-left: 20px;
+    padding-right: 0px;
+}
+.post-comment.col-xs-12.pull-right {
+    float: left !important;
+}
+.comment-error {
+    float: left !important;
+}
+.comment-profile-default.icon {
+    float: right;
+}
+.comment-user-name {
+    padding-right: 20px;
+}
+.comment-text {
+    padding-right: 20px;
+}
+
+/********** notifications ***********/
+.notification-pro-pic-cnt {
+    float: right;
+}
+.notification-message-cnt {
+    padding-right: 15px;
+    padding-left: 0px;
+}
+
+.close#white {
+    float: left;
+}
+
+.Category-input-box-row input {
+    padding-right: 10px;
+}
+
+.kader-new-account-info {
+    font-size: 1.9rem;
+}
+.top-heading-text {
+    font-family: Droid Arabic Naskh;
+}
+.help > ul > li.active > a {
+    font-family: Droid Arabic Naskh;
+}
+.kader-menu li a {
+    font-family: Droid Arabic Naskh;
+}
+.about-the-seller {
+    font-family: Droid Arabic Naskh;
+    font-size: 1.5rem;
+}
+
+/********** promote & urgent ***********/
+.modal-header-tick-icon {
+    float: right;
+}
+.urgent-tab-left-list {
+    padding-right: 12px;
+    padding-left: 0px;
+}
+.urgent-tab-left.col-md-8 {
+    float: right;
+}
+.promote-tab-left.col-md-8 {
+    float: right;
+}
+.promote-tab-left-list {
+    padding-right: 12px;
+    padding-left: 0px;
+}
+.radio-tab-price {
+    direction: ltr;
+}
+.tab-radio-button.col-md-3 {
+    float: right;
+}
+
+
+.error-main>div.modal-dialog-width>div.col-xs-8 {
+    float: right;
+}
+.kader-app-logo {
+    padding-top: 0px;
+}
+.kader-app-store>a {
+    float: left;
+}
+.kader-app-store {
+    width: 50%;
+}
+.kader-play-store {
+    width: 50%;
+}
+.kader-app-section .no-hor-padding {
+    width: 100%;
+}
+@media (max-width: 1023px) and (min-width: 320px){
+.kader-app-section {
+    padding-top: 10px;
+}
+}
+
+/********** scrollbar from http://codepen.io/jaflo/pen/xieys ***********/
+::-webkit-scrollbar {
+    width: 8px;
+	height:8px;
+}
+
+body.thin::-webkit-scrollbar {
+    width: 2px;
+	height:2px;
+}
+
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background: #eee;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: rgba(175, 174, 174, 0.57);
+}
+::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(100,100,100,0.4); 
+}
+
+
+
+
+
+/********** Car Logo Icons ***********/
+
+.invisible {
+  left: -999px;
+  overflow: hidden;
+  position: absolute;
+  top: -999px;
+}
+
+/* helpers/align.css */
+
+.align {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+/* layout/base.css 
+
+:root {
+  --body-background-color: #82a8ee;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background-color: var(--body-background-color);
+  margin: 0;
+  min-height: 100%;
+}
+
+ modules/anchor.css */
+
+a {
+  outline: 0;
+}
+
+/* modules/icon.css */
+
+
+:root {
+  --navigation-background-color: #f0f6ff;
+  --navigation-border-radius: 0.25rem;
+
+  --navigation-anchor-padding: 1.5rem;
+  --navigation-anchor-text-decoration: none;
+}
+
+.navigation {
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 0.25rem;
+  /*box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
+      margin-top: 43px;*/
+	  height: 65px;
+	    margin-top: -10px;
+}
+
+.navigation ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation a {
+  display: block;
+  padding: 1.5rem;
+  position: relative;
+  text-decoration: none;
+}
+
+.navigation a:focus::after,
+.navigation a:hover::after {
+  opacity: 1;
+}
+
+.navigation a::after {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
+  content: '';
+  height: 100%;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  transition: opacity 0.3s;
+  width: 100%;
+}
+
+.navigation--inline ul {
+  display: flex;
+}
+nav.Threes.navigation.navigation--inline {
+    margin-top: 0px;
+}
+@media (max-width: 1023px){
+nav.tow.navigation.navigation--inline {
+    display: none;
+}
+}
+/*@media (min-width: 1024px){
+.kader-app-section .no-hor-padding {
+    display: none;
+}
+.row.car-logo, .row.electro-logo {
+    display: none;
+}
+}*/
+
+nav.electro.tow.navigation.navigation--inline {
+    margin-top: 5px;
+}
+.car-logo, .electro-logo, .electro {
+    overflow-y: hidden;
+    overflow-x: auto;
+    width: 100%;
+    height: 80px;
+}
+
+
+.navigation>ul>li {
+    width: 80px;
+    margin-right: 0px;
+	border-right: 1px solid #f4f4f4;
+}
+.navigation>ul>li>a {
+    margin-right: 0px;
+}
+.navigation>ul>li>a>img {
+    width: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/**************************** NEW 2.2 ********************************/
+
+nav.navbar.col-xs-12.col-sm-12.col-md-12 {
+    margin-top: 20px;
+}
+
+
+.kader-search-bar input {
+    width: 95%;
+}
+.kader-search-icon {
+    background: url(../images/design/search.png) no-repeat 0px 12px;
+}
+@media (max-width: 1199px) and (min-width: 1024px){
+.kader-search-icon {
+    background: url(../images/design/search.png) no-repeat 0px 12px;
+}}
+.item-name a {
+    padding-right: 0px;
+}
